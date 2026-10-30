@@ -160,6 +160,7 @@ namespace Grids_with_2D_Arrays_Monogame
         // This can be used for collision and drawing
         public Rectangle GetTileRect(int row, int col, int size)
         {
+            // Columns represent the x-cord and rows represent the y-cord
             return new Rectangle(col * size, row * size, size, size);
         }
     }
