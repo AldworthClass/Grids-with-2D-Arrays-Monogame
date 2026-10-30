@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36109.1 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Grids with 2D Arrays Monogame", "Grids with 2D Arrays Monogame.csproj", "{EF9416B1-5336-4CA8-B69F-C7AFD71A056C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9416B1-5336-4CA8-B69F-C7AFD71A056C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9416B1-5336-4CA8-B69F-C7AFD71A056C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9416B1-5336-4CA8-B69F-C7AFD71A056C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9416B1-5336-4CA8-B69F-C7AFD71A056C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {918AA692-8674-40AB-8065-B85A89D06F03}
+	EndGlobalSection
+EndGlobal
